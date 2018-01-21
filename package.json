@@ -1,0 +1,27 @@
+{
+  "name": "boilr-lic-mit",
+  "version": "0.1.0",
+  "description": "Boilr template to easily add an MIT license file.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanwalther/boilr-lic-mit.git"
+  },
+  "keywords": [
+    "boilr",
+    "license",
+    "mit"
+  ],
+  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanwalther/boilr-lic-mit/issues"
+  },
+  "homepage": "https://github.com/stefanwalther/boilr-lic-mit#readme"
+}
