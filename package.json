@@ -1,6 +1,6 @@
 {
   "name": "boilr-lic-mit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Boilr template to easily add an MIT license file.",
   "main": "index.js",
   "directories": {
